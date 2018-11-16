@@ -15,5 +15,3 @@
 return array(
     'drafts' => 'Черновики',
 );
-
-?>
